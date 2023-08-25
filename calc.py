@@ -1,2 +1,2 @@
 def somar (e, e):
-    return e + e
+    return a + g
